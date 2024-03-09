@@ -1,5 +1,5 @@
 [package]
-name = "binary_tree"
+name = "red_black_tree"
 version = "0.1.0"
 edition = "2021"
 
